@@ -25,7 +25,7 @@ export default function Page() {
       "Mere bccho ki mummy ji",
       "U ka suar request kr rha",
       "Abb dhamki bhara pyrr dikhana pdega",
-      "Krde yrr popluu",
+      "Krde yrr dumbo",
       "I LOVE YOU",
       "I LOVE YOU 2",
       "I LOVE YOU INFINITY",
