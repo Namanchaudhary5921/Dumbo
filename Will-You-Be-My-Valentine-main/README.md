@@ -2,13 +2,12 @@
 
 ## 🎉 Create Your Own Valentine Page
  
-🌐 **Live Demo:** [https://will-you-b-my-valentine.netlify.app/](https://will-you-b-my-valentine.netlify.app/)
+🌐 **Live Demo:** [Live](https://wonderful-dango-0f4dc0.netlify.app/)
 
 ---
 
 
 ```bash
-cd Will-You-Be-My-Valentine-main
 cd Will-You-Be-My-Valentine-main
 ```
 
